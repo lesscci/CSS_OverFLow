@@ -1,0 +1,16 @@
+html{
+    background-color:burlywood;
+}
+.first{
+    color:aliceblue;
+    width: 300px;
+    height: 200px;
+    overflow: scroll;
+}
+
+.secon{
+    color: rebeccapurple;
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+}
